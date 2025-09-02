@@ -1,4 +1,4 @@
-# Chronological Survey of LLM Safety Techniques
+# LLM Safety Techniques
 
 This repository serves as a structured chronological survey of Large Language Model (LLM) safety techniques. Each technique is documented with a summary outlining the algorithm and contrasting it with other approaches.
 
